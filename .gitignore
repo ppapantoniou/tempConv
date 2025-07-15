@@ -405,3 +405,4 @@ FodyWeavers.xsd
 *.BAK
 *.old
 *.OLD
+[Dd]ebug[Ss]ymbols/
